@@ -1,0 +1,8 @@
+Model;Type;NbTrains;NbCarriages;SeatingCapacity
+SLT;Sprinter;131;648;34 468
+SNG;Sprinter;171;588;30843
+FLIRT;Sprinter;58;199;11990
+ICRmh;Intercity;38;294;23747
+VIRM;Intercity;177;866;88557
+ICMm;Intercity;133;449;33791
+DDZ;Intercity;49;238;23135
