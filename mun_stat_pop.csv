@@ -1,0 +1,401 @@
+id,code,uic,name_long,slug,country,type,geo_lat,geo_lng,municipalities,tot_pop
+43,ASD,8400058,Amsterdam Centraal,amsterdam-centraal,NL,megastation,52.378887176514,4.9002776145935,['Amsterdam'],853312.0
+411,RTD,8400530,Rotterdam Centraal,rotterdam-centraal,NL,megastation,51.92499923706,4.468888759613,['Rotterdam'],618467.0
+213,GV,8400280,Den Haag HS,den-haag-hs,NL,knooppuntIntercitystation,52.069721221924,4.3225002288818,"[""'s-Gravenhage""]",508592.0
+422,SDM,8400553,Schiedam Centrum,schiedam-centrum,NL,stoptreinstation,51.921243812803,4.4089937210083,"['Albrandswaard', 'Goeree-Overflakkee', 'Hellevoetsluis', 'Korendijk', 'Maassluis', 'Nissewaard', 'Schiedam', 'Vlaardingen']",387614.0
+470,UTM,8400624,Utrecht Maliebaan,utrecht-maliebaan,NL,stoptreinstation,52.087776184082,5.1313886642456,['Utrecht'],328577.0
+453,TB,8400597,Tilburg,tilburg,NL,knooppuntIntercitystation,51.560554504395,5.0836110115051,"['Goirle', 'Hilvarenbeek', 'Reusel-De Mierden', 'Tilburg']",261252.0
+61,BD,8400131,Breda,breda,NL,knooppuntIntercitystation,51.595554351807,4.7800002098083,"['Breda', 'Geertruidenberg', 'Oosterhout']",255329.0
+168,EHV,8400206,Eindhoven Centraal,eindhoven-centraal,NL,megastation,51.443332672119,5.4813890457153,"['Eindhoven', 'Waalre']",237586.0
+204,GN,8400263,Groningen,groningen,NL,knooppuntIntercitystation,53.210556030273,6.5647220611572,['Groningen'],198108.0
+21,ALMP,8400104,Almere Parkwijk,almere-parkwijk,NL,stoptreinstation,52.376667022705,5.244722366333,['Almere'],196156.0
+762,NMGO,8400477,Nijmegen Goffert,nijmegen-goffert,NL,stoptreinstation,51.8273,5.822722,['Nijmegen'],168499.0
+178,ES,8400212,Enschede,enschede,NL,knooppuntIntercitystation,52.222499847412,6.8899998664856,['Enschede'],158542.0
+98,BRD,8400090,Barendrecht,barendrecht,NL,stoptreinstation,51.854721069336,4.5533332824707,"['Barendrecht', 'Binnenmaas', 'Cromstrijen', 'Oud-Beijerland', 'Ridderkerk']",157739.0
+31,APD,8400066,Apeldoorn,apeldoorn,NL,knooppuntIntercitystation,52.209167480469,5.9702777862549,['Apeldoorn'],157535.0
+244,HLM,8400285,Haarlem,haarlem,NL,knooppuntIntercitystation,52.38777923584,4.6383333206177,['Haarlem'],155205.0
+144,DT,8400170,Delft,delft,NL,knooppuntIntercitystation,52.00666809082,4.3563890457153,"['Delft', 'Pijnacker-Nootdorp']",152561.0
+407,RSW,8400505,Rijswijk,rijswijk,NL,stoptreinstation,52.039722442627,4.3191666603088,"['Rijswijk', 'Westland']",151015.0
+23,AMF,8400055,Amersfoort Centraal,amersfoort-centraal,NL,knooppuntIntercitystation,52.153888702393,5.3705554008484,['Amersfoort'],150943.0
+802,KZ,8400363,Koog aan de Zaan,koog-aan-de-zaan,NL,stoptreinstation,52.458610534668,4.8055553436279,['Zaanstad'],150911.0
+6,AH,8400071,Arnhem Centraal,arnhem-centraal,NL,knooppuntIntercitystation,51.985000610352,5.8991665840149,['Arnhem'],150817.0
+247,HM,8400313,Helmond,helmond,NL,knooppuntIntercitystation,51.475555419922,5.6619443893433,"['Boekel', 'Gemert-Bakel', 'Helmond', 'Laarbeek']",150604.0
+232,HFD,8400332,Hoofddorp,hoofddorp,NL,stoptreinstation,52.293334960938,4.7005553245544,['Haarlemmermeer'],144166.0
+308,LEDN,8400390,Leiden Centraal,leiden-centraal,NL,knooppuntIntercitystation,52.166110992432,4.4816665649414,"['Leiden', 'Oegstgeest']",144054.0
+269,HTO,8400320,'s-Hertogenbosch Oost,s-hertogenbosch-oost,NL,stoptreinstation,51.700553894043,5.3183331489563,"[""'s-Hertogenbosch""]",143745.0
+784,EHS,8400196,Eindhoven Strijp-S,eindhoven-strijp-s,NL,stoptreinstation,51.451110839844,5.4558334350586,"['Bergeijk', 'Bladel', 'Eersel', 'Son en Breugel', 'Stede Broec', 'Veldhoven']",138127.0
+75,BGN,8400108,Bergen op Zoom,bergen-op-zoom,NL,stoptreinstation,51.49388885498,4.2961111068726,"['Bergen op Zoom', 'Steenbergen', 'Tholen', 'Woensdrecht']",136884.0
+532,ZL,8400747,Zwolle,zwolle,NL,knooppuntIntercitystation,52.504722595215,6.0919442176819,"['Hattem', 'Zwolle']",134953.0
+260,HR,8400305,Heerenveen,heerenveen,NL,intercitystation,52.961387634277,5.9141664505005,"['De Fryske Marren', 'Heerenveen', 'Opsterland']",130505.0
+26,AMR,8400050,Alkmaar,alkmaar,NL,knooppuntIntercitystation,52.63777923584,4.7397222518921,"['Alkmaar', 'Bergen (NH.)']",124981.0
+536,ZTMO,8400740,Zoetermeer Oost,zoetermeer-oost,NL,stoptreinstation,52.046390533447,4.4927778244019,['Zoetermeer'],123614.0
+342,MT,8400424,Maastricht,maastricht,NL,knooppuntIntercitystation,50.850276947021,5.7055554389954,['Maastricht'],122331.0
+124,DDR,8400180,Dordrecht,dordrecht,NL,knooppuntIntercitystation,51.807220458984,4.668333530426,['Dordrecht'],118716.0
+49,ASN,8400073,Assen,assen,NL,knooppuntIntercitystation,52.991664886475,6.5708332061768,"['Aa en Hunze', 'Assen', 'Ooststellingwerf']",118124.0
+387,PMO,8400506,Purmerend Overwhere,purmerend-overwhere,NL,stoptreinstation,52.511390686035,4.9683332443237,"['Beemster', 'Edam-Volendam', 'Purmerend']",117405.0
+383,OW,8400496,Oss West,oss-west,NL,stoptreinstation,51.758056640625,5.5055556297302,"['Bernheze', 'Oss']",114742.0
+163,EDC,8400201,Ede Centrum,ede-centrum,NL,stoptreinstation,52.043609619141,5.668333530426,['Ede'],110657.0
+122,DB,8400182,Driebergen-Zeist,driebergen-zeist,NL,knooppuntStoptreinstation,52.065277099609,5.25861120224,"['Utrechtse Heuvelrug', 'Zeist']",109276.0
+321,LW,8400387,Leeuwarden,leeuwarden,NL,knooppuntIntercitystation,53.195835113525,5.7922220230103,['Leeuwarden'],108113.0
+174,EMNZ,8400407,Emmen Zuid,emmen-zuid,NL,sneltreinstation,52.748866374691,6.8747806549072,['Emmen'],108003.0
+36,APN,8400053,Alphen a/d Rijn,alphen-a-d-rijn,NL,knooppuntIntercitystation,52.124443054199,4.6577777862549,['Alphen aan den Rijn'],106809.0
+682,DRON,8400198,Dronten,dronten,NL,stoptreinstation,52.5344,5.72089,"['Dronten', 'Noordoostpolder', 'Urk']",106310.0
+483,VH,8400655,Voorhout,voorhout,NL,stoptreinstation,52.224445343018,4.4844446182251,"['Katwijk', 'Noordwijk', 'Noordwijkerhout']",104496.0
+487,VL,8400644,Venlo,venlo,NL,knooppuntIntercitystation,51.363609313965,6.1727776527405,['Venlo'],100381.0
+153,DV,8400173,Deventer,deventer,NL,knooppuntIntercitystation,52.257499694824,6.1605553627014,['Deventer'],98327.0
+350,NDB,8400452,Naarden-Bussum,naarden-bussum,NL,knooppuntStoptreinstation,52.280277252197,5.1569442749023,"['Gooise Meren', 'Huizen']",97926.0
+119,CPS,8400147,Capelle Schollevaar,capelle-schollevaar,NL,stoptreinstation,51.954166412354,4.5841665267944,"['Capelle aan den IJssel', 'Krimpen aan den IJssel']",94991.0
+440,STD,8400564,Sittard,sittard,NL,knooppuntIntercitystation,51.001667022705,5.8586111068726,['Sittard-Geleen'],93806.0
+25,AML,8400051,Almelo,almelo,NL,knooppuntIntercitystation,52.358055114746,6.6538887023926,"['Almelo', 'Tubbergen']",93651.0
+427,SGN,8400549,Schagen,schagen,NL,stoptreinstation,52.784442901611,4.8052778244019,"['Hollands Kroon', 'Schagen']",93517.0
+211,GS,8400253,Goes,goes,NL,stoptreinstation,51.498054504395,3.8905556201935,"['Borsele', 'Goes', 'Schouwen-Duiveland']",93390.0
+541,ZWD,8400752,Zwijndrecht,zwijndrecht,NL,stoptreinstation,51.814998626709,4.6416668891907,"['Alblasserdam', 'Hendrik-Ido-Ambacht', 'Zwijndrecht']",93320.0
+261,HRL,8400307,Heerlen,heerlen,NL,knooppuntIntercitystation,50.89083480835,5.9749999046326,['Heerlen'],88202.0
+271,HVS,8400322,Hilversum,hilversum,NL,knooppuntIntercitystation,52.225833892822,5.1819443702698,['Hilversum'],86574.0
+46,ASDZ,8400061,Amsterdam Zuid,amsterdam-zuid,NL,intercitystation,52.338889,4.872356,['Amstelveen'],85135.0
+509,WK,8400706,Workum,workum,NL,stoptreinstation,52.9724864,5.4564285,['Súdwest-Fryslân'],84258.0
+814,HRNOVT,8400290,Haren OV Transferium,haren-ov-transferium,NL,facultatiefStation,53.170071,6.592202,"['Haren', 'Noordenveld', 'Tynaarlo']",82406.0
+233,HGL,8400316,Hengelo,hengelo,NL,knooppuntIntercitystation,52.261665344238,6.7938890457153,['Hengelo'],80975.0
+274,HWD,8400306,Heerhugowaard,heerhugowaard,NL,knooppuntStoptreinstation,52.669723510742,4.8227777481079,"['Heerhugowaard', 'Langedijk']",80230.0
+235,HGV,8400330,Hoogeveen,hoogeveen,NL,stoptreinstation,52.733890533447,6.4736108779907,"['De Wolden', 'Hoogeveen']",78272.0
+402,RM,8400523,Roermond,roermond,NL,knooppuntIntercitystation,51.193054199219,5.9941668510437,"['Roerdalen', 'Roermond']",77838.0
+210,GR,8400256,Gorinchem,gorinchem,NL,knooppuntStoptreinstation,51.833889007568,4.9683332443237,"['Aalburg', 'Giessenlanden', 'Gorinchem', 'Woudrichem']",76941.0
+405,RSD,8400526,Roosendaal,roosendaal,NL,knooppuntIntercitystation,51.540279388428,4.4583334922791,['Roosendaal'],76930.0
+313,LLS,8400394,Lelystad Centrum,lelystad-centrum,NL,knooppuntIntercitystation,52.507778167725,5.4727778434753,['Lelystad'],76170.0
+786,FWD,8400638,Feanwâlden,feanwalden,NL,stoptreinstation,53.2351834,5.9886615,"['Dantumadiel', 'Smallingerland']",74531.0
+503,WD,8400702,Woerden,woerden,NL,knooppuntStoptreinstation,52.084999084473,4.8936109542847,"['Montfoort', 'Oudewater', 'Woerden']",74114.0
+215,GVM,8400278,Den Haag Mariahoeve,den-haag-mariahoeve,NL,stoptreinstation,52.090557098389,4.3694443702698,['Leidschendam-Voorburg'],73392.0
+543,VDM,8400636,Veendam,veendam,NL,knooppuntStoptreinstation,53.10324,6.88475,"['Pekela', 'Stadskanaal', 'Veendam']",73321.0
+252,HN,8400337,Hoorn,hoorn,NL,knooppuntIntercitystation,52.644721984863,5.0555553436279,['Hoorn'],71741.0
+195,GD,8400258,Gouda,gouda,NL,knooppuntIntercitystation,52.017501831055,4.7044444084167,['Gouda'],70923.0
+229,HDR,8400311,Den Helder,den-helder,NL,intercitystation,52.955276489258,4.7611112594605,"['Den Helder', 'Texel']",70119.0
+493,VS,8400652,Vlissingen,vlissingen,NL,knooppuntIntercitystation,51.445835113525,3.5952777862549,"['Sluis', 'Vlissingen']",68245.0
+268,HTNC,8400335,Houten Castellum,houten-castellum,NL,stoptreinstation,52.01701,5.17949,"['Houten', 'Vianen']",68000.0
+295,KRD,8400355,Kerkrade Centrum,kerkrade-centrum,NL,knooppuntStoptreinstation,50.861667633057,6.0574998855591,"['Kerkrade', 'Simpelveld', 'Vaals']",67299.0
+225,HD,8400294,Harderwijk,harderwijk,NL,knooppuntStoptreinstation,52.337501525879,5.619722366333,"['Harderwijk', 'Zeewolde']",67284.0
+142,DRH,8400183,Driehuis,driehuis,NL,stoptreinstation,52.442501068115,4.6380553245544,['Velsen'],67231.0
+112,BZL,8400354,Kapelle-Biezelinge,kapelle-biezelinge,NL,stoptreinstation,51.480834960938,3.9561111927033,"['Kapelle', 'Terneuzen']",67219.0
+137,DN,8400172,Deurne,deurne,NL,stoptreinstation,51.455833435059,5.7888889312744,"['Asten', 'Deurne', 'Someren']",66848.0
+816,WADT,8400677,Waddinxveen Triangel,waddinxveen-triangel,NL,stoptreinstation,52.02725,4.6491,"['Waddinxveen', 'Zuidplas']",66398.0
+517,WT,8400684,Weert,weert,NL,intercitystation,51.248611450195,5.7036108970642,"['Nederweert', 'Weert']",65500.0
+327,MAS,8400419,Maarssen,maarssen,NL,stoptreinstation,52.135276794434,5.0336112976074,['Stichtse Vecht'],63823.0
+185,ETN,8400218,Etten-Leur,etten-leur,NL,intercitystation,51.57500076294,4.6358332633972,"['Etten-Leur', 'Zundert']",63725.0
+528,ZBM,8400732,Zaltbommel,zaltbommel,NL,stoptreinstation,51.80888748169,5.2633333206177,"['Maasdriel', 'Neerijnen', 'Zaltbommel']",63426.0
+489,VNDC,8400627,Veenendaal Centrum,veenendaal-centrum,NL,knooppuntStoptreinstation,52.020000457764,5.548611164093,['Veenendaal'],63207.0
+239,HKS,8400334,Hoogkarspel,hoogkarspel,NL,stoptreinstation,52.69055557251,5.1838889122009,"['Drechterland', 'Medemblik']",62588.0
+450,SWK,8400578,Steenwijk,steenwijk,NL,intercitystation,52.791510992432,6.1145557632446,"['Steenwijkerland', 'Westerveld']",62274.0
+218,GZ,8400251,Gilze-Rijen,gilze-rijen,NL,stoptreinstation,51.583610534668,4.9261112213135,"['Alphen-Chaam', 'Dongen', 'Gilze en Rijen']",61114.0
+267,HTN,8400340,Houten,houten,NL,knooppuntStoptreinstation,52.03402,5.16821,['Nieuwegein'],61017.0
+458,TL,8400596,Tiel,tiel,NL,knooppuntStoptreinstation,51.889446258545,5.4222221374512,"['Tiel', 'West Maas en Waal']",60120.0
+63,BDG,8400121,Bodegraven,bodegraven,NL,stoptreinstation,52.081390380859,4.7461109161377,"['Bodegraven-Reeuwijk', 'Nieuwkoop']",60100.0
+226,HDB,8400293,Hardenberg,hardenberg,NL,sneltreinstation,52.572776794434,6.6286110877991,['Hardenberg'],59592.0
+428,SHL,8400561,Schiphol Airport,schiphol-airport,NL,megastation,52.30944442749,4.7619442939758,"['Aalsmeer', 'Uithoorn']",59199.0
+84,BMN,8400136,Brummen,brummen,NL,stoptreinstation,52.091110229492,6.1469445228577,"['Bronckhorst', 'Brummen']",58110.0
+372,ODZ,8400483,Oldenzaal,oldenzaal,NL,stoptreinstation,52.30638885498,6.9347224235535,"['Dinkelland', 'Oldenzaal']",58089.0
+820,LLZM,8400135,Lansingerland-Zoetermeer,lansingerland-zoetermeer,NL,stoptreinstation,52.042222,4.517222,['Lansingerland'],57188.0
+85,BMR,8400128,Boxmeer,boxmeer,NL,knooppuntStoptreinstation,51.644521767653,5.9390330314636,"['Boxmeer', 'Gennep', 'Sint Anthonis']",57116.0
+415,RV,8400518,Reuver,reuver,NL,stoptreinstation,51.28321916653,6.0789585113525,"['Beesel', 'Peel en Maas']",56891.0
+145,DTC,8400177,Doetinchem,doetinchem,NL,knooppuntStoptreinstation,51.9585962,6.2962148,['Doetinchem'],56350.0
+161,EC,8400195,Echt,echt,NL,stoptreinstation,51.100555419922,5.8788890838623,"['Echt-Susteren', 'Maasgouw']",55828.0
+196,GDG,8400257,Gouda Goverwelle,gouda-goverwelle,NL,stoptreinstation,52.014999389648,4.7408332824707,['Krimpenerwaard'],54287.0
+89,BNN,8400092,Barneveld Noord,barneveld-noord,NL,stoptreinstation,52.161388397217,5.5980553627014,['Barneveld'],54176.0
+482,VG,8400667,Vught,vught,NL,stoptreinstation,51.655555725098,5.2919445037842,"['Sint-Michielsgestel', 'Vught']",53812.0
+502,WC,8400710,Wijchen,wijchen,NL,stoptreinstation,51.811668395996,5.730833530426,"['Grave', 'Wijchen']",53706.0
+102,BRN,8400086,Baarn,baarn,NL,knooppuntStoptreinstation,52.208332061768,5.2808332443237,"['Baarn', 'Bunschoten', 'Eemnes']",53664.0
+455,TBR,8400598,Tilburg Reeshof,tilburg-reeshof,NL,stoptreinstation,51.573612213135,4.9944443702698,"['Baarle-Nassau', 'Waalwijk']",53132.0
+198,GDM,8400244,Geldermalsen,geldermalsen,NL,knooppuntStoptreinstation,51.88301,5.27127,"['Buren', 'Geldermalsen']",52334.0
+468,UTG,8400615,Uitgeest,uitgeest,NL,knooppuntStoptreinstation,52.521667480469,4.7016668319702,"['Heemskerk', 'Uitgeest']",52334.0
+371,ODB,8400498,Oudenbosch,oudenbosch,NL,stoptreinstation,51.587776184082,4.5333333015442,"['Halderberge', 'Rucphen']",51592.0
+294,KPN,8400353,Kampen,kampen,NL,stoptreinstation,52.559722900391,5.9216666221619,['Kampen'],51069.0
+495,VST,8400659,Voorschoten,voorschoten,NL,stoptreinstation,52.1252784729,4.4324998855591,"['Voorschoten', 'Wassenaar']",50727.0
+116,CL,8400154,Culemborg,culemborg,NL,stoptreinstation,51.946666717529,5.2269444465637,"['Culemborg', 'Wijk bij Duurstede']",50610.0
+379,OST,8400486,Olst,olst,NL,intercitystation,52.334720611572,6.1130557060242,"['Epe', 'Olst-Wijhe']",50112.0
+395,RB,8400521,Rilland-Bath,rilland-bath,NL,stoptreinstation,51.422779083252,4.1611108779907,"['Hulst', 'Reimerswaal']",49317.0
+337,MP,8400435,Meppel,meppel,NL,knooppuntStoptreinstation,52.69083404541,6.1975002288818,"['Meppel', 'Staphorst']",49240.0
+147,DTCP,8400166,Delft Campus,delft-campus,NL,stoptreinstation,51.990833282471,4.3647222518921,"['Brielle', 'Midden-Delfland', 'Westvoorne']",48732.0
+329,MDB,8400436,Middelburg,middelburg,NL,stoptreinstation,51.494720458984,3.6172223091126,['Middelburg'],47660.0
+534,ZP,8400744,Zutphen,zutphen,NL,knooppuntIntercitystation,52.145278930664,6.1941666603088,['Zutphen'],47154.0
+526,ZA,8400734,Zetten-Andelst,zetten-andelst,NL,stoptreinstation,51.920056,5.7228408,['Overbetuwe'],46653.0
+184,EST,8400207,Elst,elst,NL,knooppuntStoptreinstation,51.916942596435,5.8550000190735,['Lingewaard'],45814.0
+276,HZE,8400308,Heeze,heeze,NL,stoptreinstation,51.384998321533,5.5694446563721,"['Heeze-Leende', 'Valkenswaard']",45729.0
+227,HDE,8400388,'t Harde,t-harde,NL,stoptreinstation,52.4091682,5.893611,"['Elburg', 'Oldebroek']",45482.0
+420,SD,8400569,Soestdijk,soestdijk,NL,stoptreinstation,52.183612823486,5.3000001907349,['Soest'],45430.0
+400,RL,8400537,Ruurlo,ruurlo,NL,stoptreinstation,52.0810888,6.4492656,['Berkelland'],44650.0
+397,RH,8400519,Rheden,rheden,NL,stoptreinstation,52.0101,6.0314,['Rheden'],43563.0
+237,HIL,8400329,Hillegom,hillegom,NL,stoptreinstation,52.302501678467,4.5655555725098,"['Hillegom', 'Lisse']",43363.0
+266,HT,8400319,'s-Hertogenbosch,s-hertogenbosch,NL,knooppuntIntercitystation,51.69048,5.29362,['Heusden'],43180.0
+492,VRY,8400646,Venray,venray,NL,knooppuntStoptreinstation,51.526568099007,6.0141777992248,['Venray'],43120.0
+81,BKL,8400133,Breukelen,breukelen,NL,knooppuntStoptreinstation,52.17149,4.9906,['De Ronde Venen'],42648.0
+77,BHV,8400114,Bilthoven,bilthoven,NL,stoptreinstation,52.130001068115,5.2038888931274,['De Bilt'],42013.0
+265,HRT,8400339,Horst-Sevenum,horst-sevenum,NL,stoptreinstation,51.426387786865,6.0422220230103,['Horst aan de Maas'],41718.0
+78,BK,8400096,Beek-Elsloo,beek-elsloo,NL,stoptreinstation,50.947498321533,5.7866668701172,"['Beek', 'Stein']",41616.0
+367,O,8400495,Oss,oss,NL,knooppuntIntercitystation,51.765556335449,5.5322222709656,['Uden'],40934.0
+96,BP,8400139,Buitenpost,buitenpost,NL,knooppuntSneltreinstation,53.2564547,6.1446496,"['Achtkarspelen', 'Kollumerland en Nieuwkruisland']",40858.0
+299,KTR,8400359,Kesteren,kesteren,NL,stoptreinstation,51.9313869,5.5833465,"['Druten', 'Neder-Betuwe']",40797.0
+354,NKK,8400469,Nijkerk,nijkerk,NL,stoptreinstation,52.222221374512,5.4938888549805,['Nijkerk'],40600.0
+111,BV,8400113,Beverwijk,beverwijk,NL,intercitystation,52.478332519531,4.6566667556763,['Beverwijk'],40052.0
+454,TBG,8400592,Terborg,terborg,NL,stoptreinstation,51.9224549,6.3642466,['Oude IJsselstreek'],39614.0
+433,SOG,8400555,Schin op Geul,schin-op-geul,NL,stoptreinstation,50.856388092041,5.8722224235535,"['Eijsden-Margraten', 'Gulpen-Wittem']",39472.0
+380,OT,8400482,Oisterwijk,oisterwijk,NL,stoptreinstation,51.582221984863,5.1941666603088,"['Haaren', 'Oisterwijk']",39413.0
+209,GP,8400245,Geldrop,geldrop,NL,knooppuntStoptreinstation,51.419723510742,5.5505557060242,['Geldrop-Mierlo'],38854.0
+421,SDA,8400551,Scheemda,scheemda,NL,stoptreinstation,53.1655362,6.9777775,['Oldambt'],38558.0
+531,ZH,8400743,Zuidhorn,zuidhorn,NL,stoptreinstation,53.2486292,6.4062361,"['Leek', 'Zuidhorn']",38374.0
+258,HON,8400328,Holten,holten,NL,stoptreinstation,52.283889770508,6.42027759552,['Rijssen-Holten'],37696.0
+312,LG,8400548,Landgraaf,landgraaf,NL,knooppuntStoptreinstation,50.896389007568,6.019166469574,['Landgraaf'],37530.0
+377,OP,8400494,Opheusden,opheusden,NL,stoptreinstation,51.9261615,5.6371145,['Wageningen'],37511.0
+539,ZVB,8400737,Zevenbergen,zevenbergen,NL,stoptreinstation,51.64042,4.60904,['Moerdijk'],36775.0
+394,RAT,8400513,Raalte,raalte,NL,stoptreinstation,52.391666412354,6.2775001525879,['Raalte'],36526.0
+431,SM,8400583,Swalmen,swalmen,NL,stoptreinstation,51.23582,6.03228,['Leudal'],36213.0
+117,CO,8400153,Coevorden,coevorden,NL,knooppuntSneltreinstation,52.663612365723,6.7355556488037,['Coevorden'],35771.0
+544,SSH,8400603,Sassenheim,sassenheim,NL,stoptreinstation,52.215278,4.517222,['Teylingen'],35723.0
+362,NVD,8400472,Nijverdal,nijverdal,NL,stoptreinstation,52.366111,6.462,['Hellendoorn'],35697.0
+115,CK,8400155,Cuijk,cuijk,NL,stoptreinstation,51.726682587905,5.8742952346802,"['Cuijk', 'Mill en Sint Hubert']",35623.0
+207,GO,8400254,Goor,goor,NL,stoptreinstation,52.230278015137,6.5844445228577,['Hof van Twente'],34987.0
+146,DTCH,8400184,Doetinchem De Huet,doetinchem-de-huet,NL,stoptreinstation,51.9591413,6.2598521,['Montferland'],34985.0
+306,LDL,8400384,Leiden Lammenschans,leiden-lammenschans,NL,stoptreinstation,52.146945953369,4.4924998283386,"['Leiderdorp', 'Zoeterwoude']",34877.0
+797,UTVR,8400606,Utrecht Vaartsche Rijn,utrecht-vaartsche-rijn,NL,knooppuntStoptreinstation,52.078889,5.121667,['IJsselstein'],34268.0
+113,CAS,8400151,Castricum,castricum,NL,intercitystation,52.545833587646,4.6586112976074,['Castricum'],34244.0
+722,HVSM,8400324,Hilversum Media Park,hilversum-media-park,NL,stoptreinstation,52.238056182861,5.1738886833191,"['Laren', 'Wijdemeren']",34016.0
+121,DA,8400164,Daarlerveen,daarlerveen,NL,stoptreinstation,52.4407702,6.5759947,['Twenterand'],33939.0
+368,OBD,8400480,Obdam,obdam,NL,stoptreinstation,52.67805480957,4.9072222709656,"['Koggenland', 'Opmeer']",33847.0
+82,BL,8400100,Beilen,beilen,NL,stoptreinstation,52.854721069336,6.5211110115051,['Midden-Drenthe'],33368.0
+304,LC,8400399,Lochem,lochem,NL,stoptreinstation,52.166667938232,6.4263887405395,['Lochem'],33268.0
+538,ZV,8400735,Zevenaar,zevenaar,NL,knooppuntStoptreinstation,51.923053741455,6.0719442367554,['Zevenaar'],32254.0
+548,SDTB,8400497,Sliedrecht Baanhoek,sliedrecht-baanhoek,NL,stoptreinstation,51.829722,4.743333,['Papendrecht'],32140.0
+228,HDG,8400292,Hurdegaryp,hurdegaryp,NL,stoptreinstation,53.2187783,5.934543,['Tytsjerksteradiel'],31980.0
+307,LDM,8400386,Leerdam,leerdam,NL,stoptreinstation,51.894721984863,5.0913887023926,"['Leerdam', 'Lingewaal']",31645.0
+505,WF,8400704,Wolfheze,wolfheze,NL,stoptreinstation,52.005554199219,5.7936110496521,['Renkum'],31577.0
+109,BTL,8400129,Boxtel,boxtel,NL,knooppuntStoptreinstation,51.58433,5.31912,['Boxtel'],30325.0
+316,LTV,8400395,Lichtenvoorde-Groenlo,lichtenvoorde-groenlo,NL,stoptreinstation,52.01188,6.59641,['Oost Gelre'],29648.0
+37,ARN,8400069,Arnemuiden,arnemuiden,NL,stoptreinstation,51.501667022705,3.6691665649414,"['Noord-Beveland', 'Veere']",29390.0
+685,HBZM,8400438,Hardinxveld Blauwe Zoom,hardinxveld-blauwe-zoom,NL,stoptreinstation,51.82944,4.81556,['Molenwaard'],29043.0
+687,HVL,8400490,Hoevelaken,hoevelaken,NL,stoptreinstation,52.16652,5.45718,['Leusden'],28967.0
+224,HB,8400326,Hoensbroek,hoensbroek,NL,stoptreinstation,50.905555725098,5.9305553436279,['Brunssum'],28914.0
+522,WW,8400698,Winterswijk,winterswijk,NL,knooppuntStoptreinstation,51.9677307,6.7155181,['Winterswijk'],28873.0
+13,AKL,8400068,Arkel,arkel,NL,stoptreinstation,51.87194442749,4.9927778244019,"['Lopik', 'Zederik']",27661.0
+129,DL,8400167,Dalfsen,dalfsen,NL,sneltreinstation,52.498332977295,6.25861120224,['Dalfsen'],27655.0
+51,ATN,8400045,Aalten,aalten,NL,stoptreinstation,51.921326524551,6.5786272287369,['Aalten'],27030.0
+360,NS,8400466,Nunspeet,nunspeet,NL,stoptreinstation,52.370834350586,5.7852778434753,['Nunspeet'],26707.0
+533,ZLW,8400382,Lage Zwaluwe,lage-zwaluwe,NL,knooppuntStoptreinstation,51.69111251831,4.6630554199219,['Drimmelen'],26705.0
+546,BHDV,8400236,Boven-Hardinxveld,boven-hardinxveld,NL,stoptreinstation,51.832222,4.878056,['Werkendam'],26400.0
+219,HAD,8400302,Heemstede-Aerdenhout,heemstede-aerdenhout,NL,intercitystation,52.35916519165,4.6066665649414,['Heemstede'],26320.0
+172,EML,8400216,Ermelo,ermelo,NL,stoptreinstation,52.301666259766,5.6147222518921,['Ermelo'],26080.0
+135,DMN,8400165,Diemen,diemen,NL,stoptreinstation,52.34515,4.967566,['Diemen'],25980.0
+364,NVP,8400460,Nieuw Vennep,nieuw-vennep,NL,stoptreinstation,52.258888244629,4.6455554962158,['Kaag en Braassem'],25758.0
+158,DZ,8400171,Delfzijl,delfzijl,NL,stoptreinstation,53.3336625,6.9240797,['Delfzijl'],25686.0
+173,EMN,8400208,Emmen,emmen,NL,sneltreinstation,52.790000915527,6.8994445800781,['Borger-Odoorn'],25633.0
+156,DVN,8400193,Duiven,duiven,NL,stoptreinstation,51.943332672119,6.0147223472595,['Duiven'],25580.0
+521,WV,8400705,Wolvega,wolvega,NL,stoptreinstation,52.880832672119,6.0036110877991,['Weststellingwerf'],25487.0
+356,NMD,8400475,Nijmegen Dukenburg,nijmegen-dukenburg,NL,stoptreinstation,51.824165344238,5.7955555915833,['Beuningen'],25254.0
+423,SDT,8400565,Sliedrecht,sliedrecht,NL,stoptreinstation,51.829723358154,4.7783331871033,['Sliedrecht'],24528.0
+785,ESK,8400221,Enschede Kennispark,enschede-kennispark,NL,stoptreinstation,52.23749923706,6.8388891220093,['Haaksbergen'],24357.0
+783,DWE,8400745,De Westereen,de-westereen,NL,stoptreinstation,53.24817,6.03463,['Dongeradeel'],24183.0
+335,MMLH,8400446,Mook Molenhoek,mook-molenhoek,NL,stoptreinstation,51.766262,5.879133,"['Heumen', 'Mook en Middelaar']",24125.0
+391,PT,8400509,Putten,putten,NL,stoptreinstation,52.264999389648,5.5752778053284,['Putten'],24044.0
+504,WDN,8400691,Wierden,wierden,NL,knooppuntStoptreinstation,52.361389160156,6.5916666984558,['Wierden'],23906.0
+460,TWL,8400599,Twello,twello,NL,stoptreinstation,52.237777709961,6.0986108779907,['Voorst'],23801.0
+456,TBU,8400594,Tilburg Universiteit,tilburg-universiteit,NL,stoptreinstation,51.564985,5.051778,['Loon op Zand'],23104.0
+246,HLO,8400309,Heiloo,heiloo,NL,stoptreinstation,52.599445343018,4.7005553245544,['Heiloo'],22626.0
+194,GBR,8400262,Glanerbrug,glanerbrug,NL,stoptreinstation,52.218612670898,6.9744443893433,['Losser'],22619.0
+249,HMBV,8400242,Helmond Brandevoort,helmond-brandevoort,NL,stoptreinstation,51.462223052979,5.6072220802307,"['Nuenen, Gerwen en Nederwetten']",22596.0
+202,GK,8400267,Grijpskerk,grijpskerk,NL,stoptreinstation,53.255740325573,6.3097786903381,"['Grootegast', 'Marum']",22543.0
+815,ZLSH,8400746,Zwolle Stadshagen,zwolle-stadshagen,NL,stoptreinstation,52.52764,6.05146,['Zwartewaterland'],22148.0
+83,BLL,8400118,Bloemendaal,bloemendaal,NL,stoptreinstation,52.404167175293,4.6275000572205,['Bloemendaal'],22077.0
+86,BN,8400124,Borne,borne,NL,stoptreinstation,52.298889160156,6.7480554580689,['Borne'],21901.0
+432,SN,8400554,Schinnen,schinnen,NL,stoptreinstation,50.939167022705,5.8744444847107,"['Onderbanken', 'Schinnen']",20843.0
+348,MZ,8400432,Maarheeze,maarheeze,NL,stoptreinstation,51.30376236035,5.6303429603577,['Cranendonck'],20388.0
+331,MES,8400434,Meerssen,meerssen,NL,sneltreinstation,50.882879392551,5.7509994506836,['Meerssen'],19259.0
+399,RHN,8400517,Rhenen,rhenen,NL,knooppuntStoptreinstation,51.958610534668,5.5783333778381,['Rhenen'],19123.0
+357,NMH,8400468,Nijmegen Heyendaal,nijmegen-heyendaal,NL,stoptreinstation,51.826946258545,5.8674998283386,['Berg en Dal'],18956.0
+507,WH,8400711,Wijhe,wijhe,NL,intercitystation,52.390277862549,6.1405553817749,['Heerde'],18515.0
+170,EKZ,8400210,Enkhuizen,enkhuizen,NL,stoptreinstation,52.699165344238,5.286388874054,['Enkhuizen'],18395.0
+513,WP,8400685,Weesp,weesp,NL,knooppuntStoptreinstation,52.3127784729,5.0430555343628,['Weesp'],18231.0
+205,GND,8400295,Hardinxveld-Giessendam,hardinxveld-giessendam,NL,stoptreinstation,51.830554962158,4.8358335494995,['Hardinxveld-Giessendam'],17736.0
+376,OMN,8400487,Ommen,ommen,NL,knooppuntSneltreinstation,52.50944519043,6.4158334732056,['Ommen'],17370.0
+388,PMR,8400508,Purmerend,purmerend,NL,knooppuntStoptreinstation,52.50305557251,4.9536108970642,['Waterland'],17154.0
+486,VK,8400632,Valkenburg,valkenburg,NL,knooppuntSneltreinstation,50.869720458984,5.8322219848633,['Valkenburg aan de Geul'],16668.0
+540,ZVT,8400733,Zandvoort aan Zee,zandvoort-aan-zee,NL,stoptreinstation,52.3752784729,4.5327777862549,['Zandvoort'],16588.0
+462,UHZ,8400617,Uithuizen,uithuizen,NL,stoptreinstation,53.4099568,6.6748869,['Eemsmond'],15910.0
+242,HLG,8400296,Harlingen,harlingen,NL,stoptreinstation,53.1704205,5.4251932,['Harlingen'],15810.0
+511,WM,8400707,Wormerveer,wormerveer,NL,stoptreinstation,52.489166259766,4.7922220230103,['Wormerland'],15751.0
+352,NH,8400467,Nuth,nuth,NL,stoptreinstation,50.919445037842,5.8927779197693,['Nuth'],15577.0
+416,RVS,8400515,Ravenstein,ravenstein,NL,stoptreinstation,51.794166564941,5.6358332633972,['Landerd'],15262.0
+545,WTV,8400688,Westervoort,westervoort,NL,stoptreinstation,51.96286,5.9695,['Westervoort'],15147.0
+88,BNK,8400141,Bunnik,bunnik,NL,stoptreinstation,52.063056945801,5.1944446563721,['Bunnik'],14619.0
+516,WSM,8400697,Winsum,winsum,NL,stoptreinstation,53.3300994,6.5202905,['Winsum'],13843.0
+47,ASHD,8400231,Amsterdam Holendrecht,amsterdam-holendrecht,NL,stoptreinstation,52.29844,4.95972,['Ouder-Amstel'],13255.0
+488,VLB,8400647,Vierlingsbeek,vierlingsbeek,NL,stoptreinstation,51.59193,5.99714,['Bergen (L.)'],13230.0
+478,VDL,8400656,Voerendaal,voerendaal,NL,stoptreinstation,50.887222290039,5.9302778244019,['Voerendaal'],12447.0
+339,MRN,8400417,Maarn,maarn,NL,knooppuntStoptreinstation,52.064167022705,5.3699998855591,['Woudenberg'],12386.0
+34,APG,8400067,Appingedam,appingedam,NL,stoptreinstation,53.3258135,6.8619577,['Appingedam'],12049.0
+141,DR,8400176,Dieren,dieren,NL,intercitystation,52.044998168945,6.1030554771423,['Doesburg'],11449.0
+74,BF,8400089,Baflo,baflo,NL,stoptreinstation,53.3608969,6.5185581,"['De Marne', 'Schiermonnikoog']",11143.0
+64,BDM,8400094,Bedum,bedum,NL,stoptreinstation,53.3068857,6.593054,['Bedum'],10475.0
+389,PMW,8400499,Purmerend Weidevenne,purmerend-weidevenne,NL,stoptreinstation,52.496590632542,4.9356293678284,['Landsmeer'],10457.0
+314,LP,8400403,Loppersum,loppersum,NL,stoptreinstation,53.3347145,6.7472625,['Loppersum'],10181.0
+490,VNDW,8400628,Veenendaal West,veenendaal-west,NL,stoptreinstation,52.028057098389,5.531388759613,['Scherpenzeel'],9496.0
+530,ZDK,8400728,Zaandam Kogerveld,zaandam-kogerveld,NL,stoptreinstation,52.456665039062,4.8202776908875,['Oostzaan'],9154.0
+108,BSMZ,8400145,Bussum Zuid,bussum-zuid,NL,stoptreinstation,52.26583480835,5.1630554199219,['Blaricum'],9112.0
+322,LWC,8400389,Leeuwarden Camminghaburen,leeuwarden-camminghaburen,NL,stoptreinstation,53.2021808,5.8422968,['Ferwerderadiel'],8771.0
+126,DDZD,8400181,Dordrecht Zuid,dordrecht-zuid,NL,stoptreinstation,51.790000915527,4.6713891029358,['Strijen'],8678.0
+442,STM,8400576,Stedum,stedum,NL,stoptreinstation,53.3262092,6.6875551,['Ten Boer'],7465.0
+243,HLGH,8400298,Harlingen Haven,harlingen-haven,NL,stoptreinstation,53.174917,5.4112885,"['Terschelling', 'Vlieland']",5866.0
+245,HLMS,8400270,Haarlem Spaarnwoude,haarlem-spaarnwoude,NL,stoptreinstation,52.382778167725,4.6730556488037,['Haarlemmerliede en Spaarnwoude'],5547.0
+285,KLP,8400637,Veenendaal-De Klomp,veenendaal-de-klomp,NL,stoptreinstation,52.045833587646,5.5738887786865,['Renswoude'],4928.0
+127,DEI,8400168,Deinum,deinum,NL,stoptreinstation,53.1888115,5.7281572,['Ameland'],3565.0
+491,VP,8400640,Velp,velp,NL,stoptreinstation,51.994720458984,5.9802780151367,['Rozendaal'],1500.0
+718,UTLR,8400607,Utrecht Leidsche Rijn,utrecht-leidsche-rijn,NL,stoptreinstation,52.09896,5.06523,[],0.0
+457,TG,8400591,Tegelen,tegelen,NL,stoptreinstation,51.33894,6.14253,[],0.0
+459,TPSW,8400600,Tiel Passewaaij,tiel-passewaaij,NL,stoptreinstation,51.873889923096,5.39222240448,[],0.0
+45,ASDM,8400060,Amsterdam Muiderpoort,amsterdam-muiderpoort,NL,stoptreinstation,52.360553741455,4.9311113357544,[],0.0
+32,APDM,8400233,Apeldoorn De Maten,apeldoorn-de-maten,NL,stoptreinstation,52.205276489258,6.0005555152893,[],0.0
+437,SRN,8400582,Susteren,susteren,NL,stoptreinstation,51.061389923096,5.8630557060242,[],0.0
+136,DMNZ,8400163,Diemen Zuid,diemen-zuid,NL,stoptreinstation,52.330276489258,4.9558334350586,[],0.0
+738,VMW,8400078,Amsterdam Van der Madeweg,amsterdam-van-der-madeweg,NL,facultatiefStation,52.330134,4.92975,[],0.0
+33,APDO,8400229,Apeldoorn Osseveld,apeldoorn-osseveld,NL,stoptreinstation,52.215278625488,6.0044445991516,[],0.0
+447,STV,8400575,Stavoren,stavoren,NL,stoptreinstation,52.8865535,5.3600212,[],0.0
+29,ANA,8400065,Anna Paulowna,anna-paulowna,NL,stoptreinstation,52.867221832275,4.8111109733581,[],0.0
+393,RAI,8400056,Amsterdam RAI,amsterdam-rai,NL,stoptreinstation,52.337223052979,4.8902778625488,[],0.0
+467,UT,8400621,Utrecht Centraal,utrecht-centraal,NL,megastation,52.088890075684,5.1102776527405,[],0.0
+320,LUT,8400248,Geleen-Lutterade,geleen-lutterade,NL,stoptreinstation,50.975555419922,5.8247222900391,[],0.0
+203,GLN,8400246,Geleen Oost,geleen-oost,NL,stoptreinstation,50.966945648193,5.8430557250977,[],0.0
+496,VSV,8400635,Varsseveld,varsseveld,NL,stoptreinstation,51.937257,6.458839,[],0.0
+50,ASS,8400059,Amsterdam Sloterdijk,amsterdam-sloterdijk,NL,knooppuntIntercitystation,52.388889312744,4.8377776145935,[],0.0
+473,UTZL,8400613,Utrecht Zuilen,utrecht-zuilen,NL,stoptreinstation,52.103055,5.09,[],0.0
+125,DDRS,8400186,Dordrecht Stadspolders,dordrecht-stadspolders,NL,stoptreinstation,51.801944732666,4.7166666984558,[],0.0
+461,UHM,8400618,Uithuizermeeden,uithuizermeeden,NL,stoptreinstation,53.4145845,6.7202975,[],0.0
+472,UTT,8400614,Utrecht Terwijde,utrecht-terwijde,NL,stoptreinstation,52.1000753,5.0439547,[],0.0
+471,UTO,8400620,Utrecht Overvecht,utrecht-overvecht,NL,knooppuntStoptreinstation,52.110000610352,5.1247220039368,[],0.0
+48,ASSP,8400235,Amsterdam Science Park,amsterdam-science-park,NL,stoptreinstation,52.35526,4.94651,[],0.0
+796,UTLN,8400623,Utrecht Lunetten,utrecht-lunetten,NL,stoptreinstation,52.06555557251,5.144166469574,[],0.0
+465,UST,8400619,Usquert,usquert,NL,stoptreinstation,53.4014742,6.6093776,[],0.0
+120,CVM,8400152,Chevremont,chevremont,NL,stoptreinstation,50.876110076904,6.0597224235535,[],0.0
+475,VB,8400658,Voorburg,voorburg,NL,stoptreinstation,52.066665649414,4.3594446182251,[],0.0
+44,ASDL,8400079,Amsterdam Lelylaan,amsterdam-lelylaan,NL,stoptreinstation,52.357776641846,4.8338890075684,[],0.0
+27,AMRI,8400520,Almelo de Riet,almelo-de-riet,NL,stoptreinstation,52.341945648193,6.6666665077209,[],0.0
+19,ALMM,8400082,Almere Muziekwijk,almere-muziekwijk,NL,stoptreinstation,52.367500305176,5.1902775764465,[],0.0
+165,EGH,8400338,Eygelshoven,eygelshoven,NL,stoptreinstation,50.890556335449,6.0450000762939,[],0.0
+143,DRP,8400192,Dronryp,dronryp,NL,stoptreinstation,53.1778086,5.6347411,[],0.0
+17,ALM,8400080,Almere Centrum,almere-centrum,NL,knooppuntIntercitystation,52.37503,5.21764,[],0.0
+529,ZD,8400731,Zaandam,zaandam,NL,knooppuntIntercitystation,52.438888549805,4.8136110305786,[],0.0
+804,ZZS,8400364,Zaandijk Zaanse Schans,zaandijk-zaanse-schans,NL,knooppuntStoptreinstation,52.469165802002,4.8049998283386,[],0.0
+18,ALMB,8400081,Almere Buiten,almere-buiten,NL,stoptreinstation,52.394165039062,5.2780556678772,[],0.0
+181,ESE,8400217,Enschede De Eschmarke,enschede-de-eschmarke,NL,stoptreinstation,52.221389770508,6.9511113166809,[],0.0
+199,GDR,8400241,Gaanderen,gaanderen,NL,stoptreinstation,51.93074,6.3486,[],0.0
+535,ZTM,8400741,Zoetermeer,zoetermeer,NL,knooppuntStoptreinstation,52.047500610352,4.4772224426269,[],0.0
+28,AMRN,8400052,Alkmaar Noord,alkmaar-noord,NL,stoptreinstation,52.643890380859,4.7641668319702,[],0.0
+527,ZB,8400742,Zuidbroek,zuidbroek,NL,knooppuntStoptreinstation,53.159612280006,6.8679141998291,[],0.0
+155,DVD,8400194,Duivendrecht,duivendrecht,NL,knooppuntStoptreinstation,52.323333740234,4.9363889694214,[],0.0
+14,AKM,8400049,Akkrum,akkrum,NL,stoptreinstation,53.046390533447,5.843611240387,[],0.0
+5,AC,8400047,Abcoude,abcoude,NL,stoptreinstation,52.2785,4.977,[],0.0
+162,ED,8400200,Ede-Wageningen,ede-wageningen,NL,knooppuntIntercitystation,52.027778625488,5.6730556488037,[],0.0
+523,WWW,8400700,Winterswijk West,winterswijk-west,NL,stoptreinstation,51.97453,6.70417,[],0.0
+166,EGHM,8400234,Eygelshoven Markt,eygelshoven-markt,NL,stoptreinstation,50.896049819644,6.0602474212646,[],0.0
+20,ALMO,8400226,Almere Oostvaarders,almere-oostvaarders,NL,stoptreinstation,52.403331756592,5.3005557060242,[],0.0
+524,WZ,8400690,Wezep,wezep,NL,stoptreinstation,52.454166412354,6.0025000572205,[],0.0
+497,VTN,8400651,Vleuten,vleuten,NL,stoptreinstation,52.103056,5.007404,[],0.0
+494,VSS,8400653,Vlissingen Souburg,vlissingen-souburg,NL,stoptreinstation,51.464721679688,3.5952777862549,[],0.0
+41,ASB,8400074,Amsterdam Bijlmer ArenA,amsterdam-bijlmer-arena,NL,knooppuntStoptreinstation,52.3122215271,4.9469442367554,[],0.0
+40,ASA,8400057,Amsterdam Amstel,amsterdam-amstel,NL,intercitystation,52.346668243408,4.9177780151367,[],0.0
+481,VEM,8400668,Voorst-Empe,voorst-empe,NL,stoptreinstation,52.157501220703,6.1436109542847,[],0.0
+476,VD,8400661,Vorden,vorden,NL,stoptreinstation,52.1071949,6.3170457,[],0.0
+499,VZ,8400664,Vriezenveen,vriezenveen,NL,stoptreinstation,52.40203,6.60041,[],0.0
+484,VHP,8400666,Vroomshoop,vroomshoop,NL,stoptreinstation,52.4571921,6.5696679,[],0.0
+54,AVAT,8400228,Amersfoort Vathorst,amersfoort-vathorst,NL,stoptreinstation,52.192779541016,5.4338889122009,[],0.0
+500,WAD,8400675,Waddinxveen,waddinxveen,NL,stoptreinstation,52.044166564941,4.6497220993042,[],0.0
+501,WADN,8400674,Waddinxveen Noord,waddinxveen-noord,NL,stoptreinstation,52.055000305176,4.6483335494995,[],0.0
+24,AMFS,8400054,Amersfoort Schothorst,amersfoort-schothorst,NL,stoptreinstation,52.174822137451,5.4038887023926,[],0.0
+506,WFM,8400679,Warffum,warffum,NL,stoptreinstation,53.3908431,6.5671364,[],0.0
+680,AMPO,8400450,Almere Poort,almere-poort,NL,stoptreinstation,52.342778,5.151944,[],0.0
+510,WL,8400686,Wehl,wehl,NL,stoptreinstation,51.9578065,6.213844,[],0.0
+417,SBK,8400572,Spaubeek,spaubeek,NL,stoptreinstation,50.94327,5.850529,[],0.0
+230,HDRZ,8400303,Den Helder Zuid,den-helder-zuid,NL,stoptreinstation,52.932498931885,4.7641668319702,[],0.0
+448,STZ,8400571,Soest Zuid,soest-zuid,NL,stoptreinstation,52.165279388428,5.3030557632446,[],0.0
+343,MTH,8400430,Martenshoek,martenshoek,NL,stoptreinstation,53.1607232,6.7402989,[],0.0
+248,HMBH,8400299,Helmond Brouwhuis,helmond-brouwhuis,NL,stoptreinstation,51.47068,5.70177,[],0.0
+315,LTN,8400405,Lunteren,lunteren,NL,stoptreinstation,52.085277557373,5.6244444847107,[],0.0
+80,BKG,8400127,Bovenkarspel-Grootebroek,bovenkarspel-grootebroek,NL,stoptreinstation,52.694999694824,5.2377777099609,[],0.0
+79,BKF,8400230,Bovenkarspel Flora,bovenkarspel-flora,NL,stoptreinstation,52.696109771729,5.2527775764465,[],0.0
+723,MTN,8400449,Maastricht Noord,maastricht-noord,NL,stoptreinstation,50.87087,5.71774,[],0.0
+344,MTR,8400426,Maastricht Randwyck,maastricht-randwyck,NL,knooppuntStoptreinstation,50.838611602783,5.7172222137451,[],0.0
+333,MG,8400427,Mantgum,mantgum,NL,stoptreinstation,53.1296368,5.7131996,[],0.0
+338,MRB,8400428,Mariënberg,marienberg,NL,knooppuntSneltreinstation,52.50944519043,6.5752778053284,[],0.0
+250,HMH,8400300,Helmond 't Hout,helmond-t-hout,NL,stoptreinstation,51.46794,5.63085,[],0.0
+358,NML,8400451,Nijmegen Lent,nijmegen-lent,NL,stoptreinstation,51.863154,5.859625,[],0.0
+813,BSKS,8400126,Boskoop Snijdelwijk,boskoop-snijdelwijk,NL,stoptreinstation,52.067658,4.646186,[],0.0
+123,DDN,8400169,Delden,delden,NL,stoptreinstation,52.259998321533,6.7161111831665,[],0.0
+107,BSK,8400125,Boskoop,boskoop,NL,stoptreinstation,52.077777862549,4.6469445228577,[],0.0
+349,,8400454,Nieuw Amsterdam,nieuw-amsterdam,NL,sneltreinstation,52.718612670898,6.8486108779907,[],0.0
+254,HNO,8400310,Heino,heino,NL,stoptreinstation,52.427223205566,6.2211112976074,[],0.0
+365,NWK,8400455,Nieuwerkerk a/d IJssel,nieuwerkerk-a-d-ijssel,NL,stoptreinstation,51.965278625488,4.6169443130493,[],0.0
+262,HRLW,8400404,Heerlen Woonboulevard,heerlen-woonboulevard,NL,stoptreinstation,50.896667,5.952222,[],0.0
+355,NM,8400470,Nijmegen,nijmegen,NL,knooppuntIntercitystation,51.843612670898,5.8522224426269,[],0.0
+251,HMN,8400315,Hemmen-Dodewaard,hemmen-dodewaard,NL,stoptreinstation,51.9222129,5.6737254,[],0.0
+686,HGLG,8400433,Hengelo Gezondheidspark,hengelo-gezondheidspark,NL,stoptreinstation,52.261667,6.773611,[],0.0
+65,BDPB,8400132,Breda-Prinsenbeek,breda-prinsenbeek,NL,stoptreinstation,51.606388092041,4.7208333015442,[],0.0
+234,HGLO,8400312,Hengelo Oost,hengelo-oost,NL,stoptreinstation,52.268890380859,6.8194446563721,[],0.0
+253,HNK,8400336,Hoorn Kersenboogerd,hoorn-kersenboogerd,NL,stoptreinstation,52.653610229492,5.0855555534363,[],0.0
+277,IJT,8400722,IJlst,ijlst,NL,stoptreinstation,53.0146614,5.6160801,[],0.0
+236,HGZ,8400331,Hoogezand-Sappemeer,hoogezand-sappemeer,NL,knooppuntStoptreinstation,53.159818131676,6.7707538604736,[],0.0
+688,KPNZ,8400360,Kampen Zuid,kampen-zuid,NL,stoptreinstation,52.5331,5.91309,[],0.0
+134,DLN,8400161,Dalen,dalen,NL,stoptreinstation,52.69416809082,6.7580556869507,[],0.0
+282,KBK,8400361,Klarenbeek,klarenbeek,NL,stoptreinstation,52.17805480957,6.0836110115051,[],0.0
+287,KMR,8400362,Klimmen-Ransdaal,klimmen-ransdaal,NL,stoptreinstation,50.866390228271,5.8905553817749,[],0.0
+62,BDE,8400140,Bunde,bunde,NL,stoptreinstation,50.896945953369,5.7366666793823,[],0.0
+288,KMW,8400366,Koudum-Molkwerum,koudum-molkwerum,NL,stoptreinstation,52.9028197,5.4106913,[],0.0
+281,KBD,8400367,Krabbendijke,krabbendijke,NL,stoptreinstation,51.433334350586,4.1169443130493,[],0.0
+286,KMA,8400368,Krommenie-Assendelft,krommenie-assendelft,NL,stoptreinstation,52.49511,4.75417,[],0.0
+300,KW,8400369,Kropswolde,kropswolde,NL,stoptreinstation,53.1617362,6.7220882,[],0.0
+297,KRG,8400370,Kruiningen-Yerseke,kruiningen-yerseke,NL,stoptreinstation,51.465000152588,4.0372223854065,[],0.0
+259,HOR,8400327,Hollandsche Rading,hollandsche-rading,NL,stoptreinstation,52.17777633667,5.1791667938232,[],0.0
+255,HNP,8400323,Hindeloopen,hindeloopen,NL,stoptreinstation,52.9464903,5.423063,[],0.0
+273,HVSP,8400570,Hilversum Sportpark,hilversum-sportpark,NL,stoptreinstation,52.216110229492,5.1872220039368,[],0.0
+157,DVNK,8400188,De Vink,de-vink,NL,stoptreinstation,52.147220611572,4.4563889503479,[],0.0
+159,DZW,8400175,Delfzijl West,delfzijl-west,NL,stoptreinstation,53.3320834,6.9069092,[],0.0
+132,DLD,8400179,Den Dolder,den-dolder,NL,knooppuntStoptreinstation,52.140277862549,5.2427778244019,[],0.0
+438,ST,8400567,Soest,soest,NL,knooppuntStoptreinstation,52.173332214355,5.3099999427795,[],0.0
+9,AHP,8400072,Arnhem Velperpoort,arnhem-velperpoort,NL,stoptreinstation,51.985279083252,5.9194445610046,[],0.0
+412,RTN,8400531,Rotterdam Noord,rotterdam-noord,NL,stoptreinstation,51.942222595215,4.4816665649414,[],0.0
+413,RTST,8400534,Rotterdam Stadion,rotterdam-stadion,NL,facultatiefStation,51.893890380859,4.5197219848633,[],0.0
+414,RTZ,8400533,Rotterdam Zuid,rotterdam-zuid,NL,stoptreinstation,51.904445648193,4.5102777481079,[],0.0
+11,AHZ,8400227,Arnhem Zuid,arnhem-zuid,NL,stoptreinstation,51.955001831055,5.8519444465637,[],0.0
+435,SPTN,8400543,Santpoort Noord,santpoort-noord,NL,stoptreinstation,52.43388748169,4.6325001716614,[],0.0
+436,SPTZ,8400544,Santpoort Zuid,santpoort-zuid,NL,stoptreinstation,52.419723510742,4.6313886642456,[],0.0
+434,SPM,8400545,Sappemeer Oost,sappemeer-oost,NL,stoptreinstation,53.1589183,6.7955648,[],0.0
+449,SWD,8400547,Sauwerd,sauwerd,NL,stoptreinstation,53.29113,6.5404,[],0.0
+426,SGL,8400341,Houthem-St. Gerlach,houthem-st-gerlach,NL,stoptreinstation,50.873332977295,5.7972221374512,[],0.0
+599,HRY,8400301,Heerenveen IJsstadion,heerenveen-ijsstadion,NL,facultatiefStation,52.935276031494,5.9438886642456,[],0.0
+10,AHPR,8400075,Arnhem Presikhaaf,arnhem-presikhaaf,NL,stoptreinstation,51.988056182861,5.9438886642456,[],0.0
+217,GW,8400266,Grou-Jirnsum,grou-jirnsum,NL,stoptreinstation,53.088890075684,5.8225002288818,[],0.0
+201,GERP,8400238,Groningen Europapark,groningen-europapark,NL,stoptreinstation,53.20480027,6.5854178,[],0.0
+154,DVC,8400185,Deventer Colmschate,deventer-colmschate,NL,stoptreinstation,52.2502784729,6.2144446372986,[],0.0
+193,GBG,8400259,Gramsbergen,gramsbergen,NL,stoptreinstation,52.60916519165,6.6758332252502,[],0.0
+128,DID,8400174,Didam,didam,NL,stoptreinstation,51.933502,6.1324106,[],0.0
+429,SK,8400566,Sneek,sneek,NL,knooppuntStoptreinstation,53.0328688,5.6523969,[],0.0
+430,SKND,8400574,Sneek Noord,sneek-noord,NL,stoptreinstation,53.0409319,5.6631808,[],0.0
+401,RLB,8400542,Rotterdam Lombardijen,rotterdam-lombardijen,NL,stoptreinstation,51.880001068115,4.531388759613,[],0.0
+361,NSCH,8400457,Bad Nieuweschans,bad-nieuweschans,NL,knooppuntStoptreinstation,53.1844,7.19937,[],0.0
+410,RTB,8400529,Rotterdam Blaak,rotterdam-blaak,NL,stoptreinstation,51.920276641846,4.4888887405395,[],0.0
+409,RTA,8400507,Rotterdam Alexander,rotterdam-alexander,NL,intercitystation,51.951946258545,4.5536112785339,[],0.0
+214,GVC,8400282,Den Haag Centraal,den-haag-centraal,NL,megastation,52.080276489258,4.3249998092651,[],0.0
+238,HK,8400317,Heemskerk,heemskerk,NL,stoptreinstation,52.495277404785,4.6869444847107,[],0.0
+817,EEM,8400202,Eemshaven,eemshaven,NL,stoptreinstation,53.458419,6.832,[],0.0
+97,BR,8400117,Blerick,blerick,NL,stoptreinstation,51.372501373291,6.1550002098083,[],0.0
+381,OTB,8400489,Oosterbeek,oosterbeek,NL,stoptreinstation,51.994998931885,5.8400001525879,[],0.0
+302,LAA,8400380,Den Haag Laan v NOI,den-haag-laan-v-noi,NL,knooppuntStoptreinstation,52.078609466553,4.3427777290344,[],0.0
+264,HRN,8400297,Haren,haren,NL,stoptreinstation,53.176109313965,6.6172223091125,[],0.0
+382,OVN,8400501,Overveen,overveen,NL,stoptreinstation,52.391109466553,4.6061110496521,[],0.0
+216,GVMW,8400279,Den Haag Moerwijk,den-haag-moerwijk,NL,stoptreinstation,52.053890228271,4.3086109161377,[],0.0
+525,YPB,8400379,Den Haag Ypenburg,den-haag-ypenburg,NL,stoptreinstation,52.055278778076,4.39222240448,[],0.0
+106,BSD,8400097,Beesd,beesd,NL,stoptreinstation,51.899444580078,5.1944446563721,[],0.0
+684,HWZB,8400400,Halfweg-Zwanenburg,halfweg-zwanenburg,NL,stoptreinstation,52.385935,4.747165,[],0.0
+406,RSN,8400538,Rijssen,rijssen,NL,stoptreinstation,52.3122215271,6.5202779769897,[],0.0
+764,BNZ,8400115,Barneveld Zuid,barneveld-zuid,NL,stoptreinstation,52.128853,5.60246,[],0.0
+87,BNC,8400091,Barneveld Centrum,barneveld-centrum,NL,stoptreinstation,52.139999389648,5.590277671814,[],0.0
+396,RD,8400525,Roodeschool,roodeschool,NL,stoptreinstation,53.421262,6.7587,[],0.0
+404,RS,8400524,Rosmalen,rosmalen,NL,stoptreinstation,51.714721679688,5.3680553436279,[],0.0
+164,EDN,8400219,Eijsden,eijsden,NL,stoptreinstation,50.771945953369,5.710000038147,[],0.0
+73,BET,8400112,Best,best,NL,stoptreinstation,51.509998321533,5.3891668319702,"['Best', 'Meierijstad', 'Oirschot']",
+187,FN,8400232,Franeker,franeker,NL,stoptreinstation,53.1824488,5.5483094,['Waadhoeke'],
+206,GNN,8400264,Groningen Noord,groningen-noord,NL,stoptreinstation,53.2301469,6.5563172,['Midden-Groningen'],
+515,WS,8400696,Winschoten,winschoten,NL,knooppuntStoptreinstation,53.1392377,7.035101,['Westerwolde'],

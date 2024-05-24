@@ -1,4 +1,4 @@
-id,code,uic,name_long,slug,country,type,geo_lat,geo_lng,Cities,Total_Population
+id,code,uic,name_long,slug,country,type,geo_lat,geo_lng,cities,tot_pop
 453,TB,8400597,Tilburg,tilburg,NL,knooppuntIntercitystation,51.560554504395,5.0836110115051,['Tilburg'],1944588
 43,ASD,8400058,Amsterdam Centraal,amsterdam-centraal,NL,megastation,52.378887176514,4.9002776145935,['Amsterdam'],917923
 410,RTB,8400529,Rotterdam Blaak,rotterdam-blaak,NL,stoptreinstation,51.920276641846,4.4888887405395,"['Rotterdam', 'Kralingse Veer']",666722
