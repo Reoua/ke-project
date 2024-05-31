@@ -1,0 +1,401 @@
+station,municipality,type
+'s-Hertogenbosch,'s-Hertogenbosch,services
+'s-Hertogenbosch Oost,'s-Hertogenbosch,services
+'t Harde,Oldebroek,services
+Aalten,Aalten,services
+Abcoude,Ouder-Amstel,services
+Akkrum,Heerenveen,services
+Alkmaar,Alkmaar,services
+Alkmaar Noord,Alkmaar,services
+Almelo,Almelo,services
+Almelo de Riet,Almelo,services
+Almere Buiten,Almere,services
+Almere Centrum,Almere,services
+Almere Muziekwijk,Almere,services
+Almere Oostvaarders,Almere,services
+Almere Parkwijk,Almere,services
+Almere Poort,Gooise Meren,services
+Alphen a/d Rijn,Alphen aan den Rijn,services
+Amersfoort Centraal,Amersfoort,services
+Amersfoort Schothorst,Amersfoort,services
+Amersfoort Vathorst,Nijkerk,services
+Amsterdam Amstel,Diemen,services
+Amsterdam Bijlmer ArenA,Diemen,services
+Amsterdam Centraal,Amsterdam,services
+Amsterdam Holendrecht,Ouder-Amstel,services
+Amsterdam Lelylaan,Amsterdam,services
+Amsterdam Muiderpoort,Amsterdam,services
+Amsterdam RAI,Amstelveen,services
+Amsterdam Science Park,Diemen,services
+Amsterdam Sloterdijk,Amsterdam,services
+Amsterdam Van der Madeweg,Diemen,services
+Amsterdam Zuid,Amstelveen,services
+Anna Paulowna,Schagen,services
+Apeldoorn,Apeldoorn,services
+Apeldoorn De Maten,Apeldoorn,services
+Apeldoorn Osseveld,Apeldoorn,services
+Appingedam,Appingedam,services
+Arkel,Gorinchem,services
+Arnemuiden,Middelburg,services
+Arnhem Centraal,Arnhem,services
+Arnhem Presikhaaf,Rozendaal,services
+Arnhem Velperpoort,Arnhem,services
+Arnhem Zuid,Arnhem,services
+Assen,Assen,services
+Baarn,Baarn,services
+Bad Nieuweschans,Oldambt,services
+Baflo,Winsum,services
+Barendrecht,Barendrecht,services
+Barneveld Centrum,Barneveld,services
+Barneveld Noord,Barneveld,services
+Barneveld Zuid,Barneveld,services
+Bedum,Bedum,services
+Beek-Elsloo,Beek,services
+Beesd,Geldermalsen,services
+Beilen,Midden-Drenthe,services
+Bergen op Zoom,Bergen op Zoom,services
+Best,Best,services
+Beverwijk,Beverwijk,services
+Bilthoven,De Bilt,services
+Blerick,Venlo,services
+Bloemendaal,Bloemendaal,services
+Bodegraven,Bodegraven-Reeuwijk,services
+Borne,Borne,services
+Boskoop,Alphen aan den Rijn,services
+Boskoop Snijdelwijk,Waddinxveen,services
+Boven-Hardinxveld,Werkendam,services
+Bovenkarspel Flora,Enkhuizen,services
+Bovenkarspel-Grootebroek,Enkhuizen,services
+Boxmeer,Boxmeer,services
+Boxtel,Boxtel,services
+Breda,Breda,services
+Breda-Prinsenbeek,Etten-Leur,services
+Breukelen,Stichtse Vecht,services
+Brummen,Brummen,services
+Buitenpost,Achtkarspelen,services
+Bunde,Meerssen,services
+Bunnik,Bunnik,services
+Bussum Zuid,Hilversum,services
+Capelle Schollevaar,Capelle aan den IJssel,services
+Castricum,Castricum,services
+Chevremont,Kerkrade,services
+Coevorden,Coevorden,services
+Cuijk,Cuijk,services
+Culemborg,Culemborg,services
+Daarlerveen,Twenterand,services
+Dalen,Coevorden,services
+Dalfsen,Dalfsen,services
+De Vink,Voorschoten,services
+De Westereen,Dantumadiel,services
+Deinum,Leeuwarden,services
+Delden,Borne,services
+Delft,Delft,services
+Delft Campus,Delft,services
+Delfzijl,Delfzijl,services
+Delfzijl West,Delfzijl,services
+Den Dolder,De Bilt,services
+Den Haag Centraal,'s-Gravenhage,services
+Den Haag HS,'s-Gravenhage,services
+Den Haag Laan v NOI,'s-Gravenhage,services
+Den Haag Mariahoeve,Leidschendam-Voorburg,services
+Den Haag Moerwijk,'s-Gravenhage,services
+Den Haag Ypenburg,Leidschendam-Voorburg,services
+Den Helder,Den Helder,services
+Den Helder Zuid,Den Helder,services
+Deurne,Deurne,services
+Deventer,Deventer,services
+Deventer Colmschate,Deventer,services
+Didam,Zevenaar,services
+Diemen,Diemen,services
+Diemen Zuid,Diemen,services
+Dieren,Doesburg,services
+Doetinchem,Doetinchem,services
+Doetinchem De Huet,Doetinchem,services
+Dordrecht,Dordrecht,services
+Dordrecht Stadspolders,Dordrecht,services
+Dordrecht Zuid,Dordrecht,services
+Driebergen-Zeist,Utrechtse Heuvelrug,services
+Driehuis,Velsen,services
+Dronryp,Waadhoeke,services
+Dronten,Dronten,services
+Duiven,Duiven,services
+Duivendrecht,Diemen,services
+Echt,Echt-Susteren,services
+Ede Centrum,Ede,services
+Ede-Wageningen,Ede,services
+Eemshaven,Eemsmond,services
+Eijsden,Maastricht,services
+Eindhoven Centraal,Eindhoven,services
+Eindhoven Strijp-S,Eindhoven,services
+Elst,Overbetuwe,services
+Emmen,Emmen,services
+Emmen Zuid,Emmen,services
+Enkhuizen,Enkhuizen,services
+Enschede,Enschede,services
+Enschede De Eschmarke,Enschede,services
+Enschede Kennispark,Hengelo,services
+Ermelo,Ermelo,services
+Etten-Leur,Etten-Leur,services
+Eygelshoven,Landgraaf,services
+Eygelshoven Markt,Landgraaf,services
+Feanwâlden,Dantumadiel,services
+Franeker,Waadhoeke,services
+Gaanderen,Oude IJsselstreek,services
+Geldermalsen,Geldermalsen,services
+Geldrop,Geldrop-Mierlo,services
+Geleen Oost,Schinnen,services
+Geleen-Lutterade,Sittard-Geleen,services
+Gilze-Rijen,Gilze en Rijen,services
+Glanerbrug,Losser,services
+Goes,Goes,services
+Goor,Hof van Twente,services
+Gorinchem,Gorinchem,services
+Gouda,Gouda,services
+Gouda Goverwelle,Gouda,services
+Gramsbergen,Hardenberg,services
+Grijpskerk,Grootegast,services
+Groningen,Groningen,services
+Groningen Europapark,Groningen,services
+Groningen Noord,Groningen,services
+Grou-Jirnsum,Leeuwarden,services
+Haarlem,Haarlem,services
+Haarlem Spaarnwoude,Haarlem,services
+Halfweg-Zwanenburg,Haarlemmerliede en Spaarnwoude,services
+Hardenberg,Hardenberg,services
+Harderwijk,Harderwijk,services
+Hardinxveld Blauwe Zoom,Hardinxveld-Giessendam,services
+Hardinxveld-Giessendam,Hardinxveld-Giessendam,services
+Haren,Haren,services
+Haren OV Transferium,Haren,services
+Harlingen,Harlingen,services
+Harlingen Haven,Harlingen,services
+Heemskerk,Heemskerk,services
+Heemstede-Aerdenhout,Heemstede,services
+Heerenveen,Heerenveen,services
+Heerenveen IJsstadion,Heerenveen,services
+Heerhugowaard,Heerhugowaard,services
+Heerlen,Heerlen,services
+Heerlen Woonboulevard,Heerlen,services
+Heeze,Heeze-Leende,services
+Heiloo,Heiloo,services
+Heino,Raalte,services
+Helmond,Helmond,services
+Helmond 't Hout,Helmond,services
+Helmond Brandevoort,Geldrop-Mierlo,services
+Helmond Brouwhuis,Helmond,services
+Hemmen-Dodewaard,Wageningen,services
+Hengelo,Hengelo,services
+Hengelo Gezondheidspark,Hengelo,services
+Hengelo Oost,Hengelo,services
+Hillegom,Hillegom,services
+Hilversum,Hilversum,services
+Hilversum Media Park,Hilversum,services
+Hilversum Sportpark,Hilversum,services
+Hindeloopen,Súdwest-Fryslân,services
+Hoensbroek,Nuth,services
+Hoevelaken,Leusden,services
+Hollandsche Rading,Hilversum,services
+Holten,Rijssen-Holten,services
+Hoofddorp,Haarlemmermeer,services
+Hoogeveen,Hoogeveen,services
+Hoogezand-Sappemeer,Veendam,services
+Hoogkarspel,Drechterland,services
+Hoorn,Hoorn,services
+Hoorn Kersenboogerd,Hoorn,services
+Horst-Sevenum,Horst aan de Maas,services
+Houten,Houten,services
+Houten Castellum,Houten,services
+Houthem-St. Gerlach,Valkenburg aan de Geul,services
+Hurdegaryp,Tytsjerksteradiel,services
+IJlst,Súdwest-Fryslân,services
+Kampen,Kampen,services
+Kampen Zuid,Kampen,services
+Kapelle-Biezelinge,Kapelle,services
+Kerkrade Centrum,Kerkrade,services
+Kesteren,Neder-Betuwe,services
+Klarenbeek,Voorst,services
+Klimmen-Ransdaal,Voerendaal,services
+Koog aan de Zaan,Zaanstad,services
+Koudum-Molkwerum,Súdwest-Fryslân,services
+Krabbendijke,Reimerswaal,services
+Krommenie-Assendelft,Zaanstad,services
+Kropswolde,Haren,services
+Kruiningen-Yerseke,Kapelle,services
+Lage Zwaluwe,Strijen,services
+Landgraaf,Landgraaf,services
+Lansingerland-Zoetermeer,Zoetermeer,services
+Leerdam,Leerdam,services
+Leeuwarden,Leeuwarden,services
+Leeuwarden Camminghaburen,Leeuwarden,services
+Leiden Centraal,Leiden,services
+Leiden Lammenschans,Leiden,services
+Lelystad Centrum,Lelystad,services
+Lichtenvoorde-Groenlo,Oost Gelre,services
+Lochem,Lochem,services
+Loppersum,Loppersum,services
+Lunteren,Ede,services
+Maarheeze,Cranendonck,services
+Maarn,Woudenberg,services
+Maarssen,Stichtse Vecht,services
+Maastricht,Maastricht,services
+Maastricht Noord,Maastricht,services
+Maastricht Randwyck,Maastricht,services
+Mantgum,Leeuwarden,services
+Mariënberg,Twenterand,services
+Martenshoek,Haren,services
+Meerssen,Meerssen,services
+Meppel,Meppel,services
+Middelburg,Middelburg,services
+Mook Molenhoek,Mook en Middelaar,services
+Naarden-Bussum,Gooise Meren,services
+Nieuw Amsterdam,Emmen,services
+Nieuw Vennep,Haarlemmermeer,services
+Nieuwerkerk a/d IJssel,Capelle aan den IJssel,services
+Nijkerk,Nijkerk,services
+Nijmegen,Nijmegen,services
+Nijmegen Dukenburg,Nijmegen,services
+Nijmegen Goffert,Nijmegen,services
+Nijmegen Heyendaal,Nijmegen,services
+Nijmegen Lent,Nijmegen,services
+Nijverdal,Hellendoorn,services
+Nunspeet,Nunspeet,services
+Nuth,Nuth,services
+Obdam,Koggenland,services
+Oisterwijk,Oisterwijk,services
+Oldenzaal,Oldenzaal,services
+Olst,Olst-Wijhe,services
+Ommen,Ommen,services
+Oosterbeek,Arnhem,services
+Opheusden,Neder-Betuwe,services
+Oss,Oss,services
+Oss West,Oss,services
+Oudenbosch,Halderberge,services
+Overveen,Bloemendaal,services
+Purmerend,Purmerend,services
+Purmerend Overwhere,Purmerend,services
+Purmerend Weidevenne,Purmerend,services
+Putten,Putten,services
+Raalte,Raalte,services
+Ravenstein,Landerd,services
+Reuver,Beesel,services
+Rheden,Rheden,services
+Rhenen,Rhenen,services
+Rijssen,Rijssen-Holten,services
+Rijswijk,Rijswijk,services
+Rilland-Bath,Reimerswaal,services
+Roermond,Roermond,services
+Roodeschool,Eemsmond,services
+Roosendaal,Roosendaal,services
+Rosmalen,'s-Hertogenbosch,services
+Rotterdam Alexander,Capelle aan den IJssel,services
+Rotterdam Blaak,Rotterdam,services
+Rotterdam Centraal,Rotterdam,services
+Rotterdam Lombardijen,Barendrecht,services
+Rotterdam Noord,Rotterdam,services
+Rotterdam Stadion,Rotterdam,services
+Rotterdam Zuid,Rotterdam,services
+Ruurlo,Berkelland,services
+Santpoort Noord,Velsen,services
+Santpoort Zuid,Bloemendaal,services
+Sappemeer Oost,Veendam,services
+Sassenheim,Teylingen,services
+Sauwerd,Bedum,services
+Schagen,Schagen,services
+Scheemda,Oldambt,services
+Schiedam Centrum,Schiedam,services
+Schin op Geul,Valkenburg aan de Geul,services
+Schinnen,Schinnen,services
+Schiphol Airport,Aalsmeer,services
+Sittard,Sittard-Geleen,services
+Sliedrecht,Sliedrecht,services
+Sliedrecht Baanhoek,Sliedrecht,services
+Sneek,Súdwest-Fryslân,services
+Sneek Noord,Súdwest-Fryslân,services
+Soest,Soest,services
+Soest Zuid,Soest,services
+Soestdijk,Soest,services
+Spaubeek,Schinnen,services
+Stavoren,Súdwest-Fryslân,services
+Stedum,Loppersum,services
+Steenwijk,Steenwijkerland,services
+Susteren,Echt-Susteren,services
+Swalmen,Beesel,services
+Tegelen,Venlo,services
+Terborg,Oude IJsselstreek,services
+Tiel,Tiel,services
+Tiel Passewaaij,Tiel,services
+Tilburg,Tilburg,services
+Tilburg Reeshof,Gilze en Rijen,services
+Tilburg Universiteit,Tilburg,services
+Twello,Voorst,services
+Uitgeest,Uitgeest,services
+Uithuizen,Eemsmond,services
+Uithuizermeeden,Eemsmond,services
+Usquert,Eemsmond,services
+Utrecht Centraal,Utrecht,services
+Utrecht Leidsche Rijn,Utrecht,services
+Utrecht Lunetten,Utrecht,services
+Utrecht Maliebaan,Utrecht,services
+Utrecht Overvecht,Utrecht,services
+Utrecht Terwijde,Stichtse Vecht,services
+Utrecht Vaartsche Rijn,Utrecht,services
+Utrecht Zuilen,Utrecht,services
+Valkenburg,Valkenburg aan de Geul,services
+Varsseveld,Oude IJsselstreek,services
+Veendam,Veendam,services
+Veenendaal Centrum,Veenendaal,services
+Veenendaal West,Veenendaal,services
+Veenendaal-De Klomp,Veenendaal,services
+Velp,Rozendaal,services
+Venlo,Venlo,services
+Venray,Venray,services
+Vierlingsbeek,Bergen (L.),services
+Vleuten,Stichtse Vecht,services
+Vlissingen,Vlissingen,services
+Vlissingen Souburg,Vlissingen,services
+Voerendaal,Voerendaal,services
+Voorburg,Leidschendam-Voorburg,services
+Voorhout,Teylingen,services
+Voorschoten,Voorschoten,services
+Voorst-Empe,Zutphen,services
+Vorden,Lochem,services
+Vriezenveen,Wierden,services
+Vroomshoop,Twenterand,services
+Vught,Vught,services
+Waddinxveen,Waddinxveen,services
+Waddinxveen Noord,Waddinxveen,services
+Waddinxveen Triangel,Waddinxveen,services
+Warffum,Eemsmond,services
+Weert,Weert,services
+Weesp,Weesp,services
+Wehl,Montferland,services
+Westervoort,Westervoort,services
+Wezep,Hattem,services
+Wierden,Wierden,services
+Wijchen,Wijchen,services
+Wijhe,Olst-Wijhe,services
+Winschoten,Pekela,services
+Winsum,Winsum,services
+Winterswijk,Winterswijk,services
+Winterswijk West,Winterswijk,services
+Woerden,Woerden,services
+Wolfheze,Renkum,services
+Wolvega,Weststellingwerf,services
+Workum,Súdwest-Fryslân,services
+Wormerveer,Zaanstad,services
+Zaandam,Oostzaan,services
+Zaandam Kogerveld,Oostzaan,services
+Zaandijk Zaanse Schans,Zaanstad,services
+Zaltbommel,Zaltbommel,services
+Zandvoort aan Zee,Zandvoort,services
+Zetten-Andelst,Overbetuwe,services
+Zevenaar,Zevenaar,services
+Zevenbergen,Moerdijk,services
+Zoetermeer,Zoetermeer,services
+Zoetermeer Oost,Zoetermeer,services
+Zuidbroek,Veendam,services
+Zuidhorn,Zuidhorn,services
+Zutphen,Zutphen,services
+Zwijndrecht,Zwijndrecht,services
+Zwolle,Zwolle,services
+Zwolle Stadshagen,Zwolle,services
