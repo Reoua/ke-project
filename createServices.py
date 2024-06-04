@@ -15,7 +15,7 @@ def find_and_map_closest_municipality(station, municipalities, station_mun_map):
             closest_municipality = municipality['municipality']
 
     # Add the closest municipality to the station_mun_map
-    station_mun_map.append((station['name_long'], closest_municipality))
+    station_mun_map.append((station['code'], closest_municipality))
 
 
 # Function to calculate the sum of populations for a list of cities
