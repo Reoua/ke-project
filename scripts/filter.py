@@ -13,7 +13,7 @@ def rename_column_in_csv(file_path, old_column_name, new_column_name):
 
 
 # Example usage
-file_path = 'network_data/stations_node.csv'
+file_path = '../network_data/stations_node.csv'
 old_column_name = 'geo_lng'
 new_column_name = 'longitude'
 
