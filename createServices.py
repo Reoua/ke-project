@@ -24,8 +24,8 @@ def calculate_population_sum(cities, city_population_map):
 
 
 def create_station_municipality_csv():
-    stations = pd.read_csv("start_data/stations-2020-01.csv")
-    municipalities = pd.read_csv("start_data/municipalities_v7.csv")
+    stations = pd.read_csv("data/stations-2020-01.csv")
+    municipalities = pd.read_csv("data/municipalities_v7.csv")
 
     # Only consider stations in the Netherlands
     stations = stations[stations['country'] == "NL"]
