@@ -1,5 +1,5 @@
 # Knowledge Engineering Project
-Repository for the Knowledge Engineering project. Contains data used to create
+Repository for the Knowledge Engineering project of group 6. Contains data used to create
 a property graph in order to answer questions regarding NS and train stations in the
 Netherlands.
 
@@ -13,5 +13,7 @@ to create the property graph. Each file represents a node type or a relationship
 There is also the .dump file that Neo4j creates to represent the whole property graph.
 The file can be loaded in Neo4j to open the property graph directly.
 
-The "scripts" folder contains some of the code we wrote to filter, process and analyse our source data.
+The "scripts" folder contains some of the code we wrote to filter, process and analyse our source data. Not all the steps
+are present as some of the data files are not present and also because the creation of the final datasets was done in multiple
+small parts.
 
